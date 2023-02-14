@@ -1,6 +1,6 @@
 ### Hi there 👋
 Kanu Onyedikachi Here
-- 🌱 Software, Communincations 
+- 🌱 Communications, Software, Systems🦾🧠🧢
 
 <!--
 **0xKanu/0xKanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
